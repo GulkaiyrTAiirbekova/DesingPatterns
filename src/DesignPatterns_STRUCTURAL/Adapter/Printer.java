@@ -1,5 +1,4 @@
-package DesignPatterns_STRUCTURAL;
-
+package DesignPatterns_STRUCTURAL.Adapter;
 //Target interface
 
 public interface Printer {

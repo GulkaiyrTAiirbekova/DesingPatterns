@@ -1,4 +1,8 @@
-package DesignPatterns_STRUCTURAL;
+package DesignPatterns_STRUCTURAL.Adapter;
+import DesignPatterns_STRUCTURAL.Adapter.Printer;
+import DesignPatterns_STRUCTURAL.Adapter.PrinterAdapter;
+
+
 //Adaptee
 
 public class LegacyPrinter {

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="11f3798c-e001-4d31-8465-0afcf8be329d" name="Changes" comment="Abstract Factory Patterns">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesingPatterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryPattern/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryPattern/MacOSButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryPattern/MacOSCheckBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryPattern/WindowsButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns_STRUCTURAL/LegacyPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns_STRUCTURAL/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns_STRUCTURAL/PrinterAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns_STRUCTURAL/UsingAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractFactoryPattern/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstractFactoryPattern/Button.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractFactoryPattern/Checkbox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstractFactoryPattern/CheckBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractFactoryPattern/DemoAbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstractFactoryPattern/DemoAbstractFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractFactoryPattern/GUIFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstractFactoryPattern/GUIFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractFactoryPattern/MacOSFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstractFactoryPattern/MacOSFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractFactoryPattern/WindowsFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cache/Cache.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cache/FIFOCache.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cache/LRUCache.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cache/MainDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cache/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SOLID/D_Dependepcy_Inversion_Principle/EmailSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SOLID/D_Dependepcy_Inversion_Principle/EmailSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SOLID/D_Dependepcy_Inversion_Principle/IMessageSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SOLID/D_Dependepcy_Inversion_Principle/IMessageSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SOLID/I_Interface_Segregation_Principle/IWorkable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SOLID/I_Interface_Segregation_Principle/IWorkable.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$/src" source="Cache" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/src" value="Cache" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;GulkaiyrTAiirbekova&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/GulkaiyrTAiirbekova/DesingPatterns",
+    "accountId": "ea1db95d-0852-4b6a-aadf-2932dede4d91"
+  },
+  "recentNewPullRequestHead": {
+    "server": {
+      "useHttp": false,
+      "host": "github.com",
+      "port": null,
+      "suffix": null
+    },
+    "owner": "GulkaiyrTAiirbekova",
+    "repository": "DesingPatterns"
+  }
+}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="35gugfA5v22RiQ6gbHnIRtaZF7H" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "Application.BridgePatternDemo.executor": "Run",
+    "Application.BuilderDemo.executor": "Run",
+    "Application.DemoAbstractFactory.executor": "Run",
+    "Application.FactoryDemo.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MainDemo.executor": "Run",
+    "Application.PrototypeDemo.executor": "Run",
+    "Application.UsingAdapter.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "StructuralBranch",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11f3798c-e001-4d31-8465-0afcf8be329d" name="Changes" comment="" />
+      <created>1763544152150</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763544152150</updated>
+    </task>
+    <task id="LOCAL-00001" summary="SOLID-S">
+      <option name="closed" value="true" />
+      <created>1763544688841</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1763544688848</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Cache">
+      <option name="closed" value="true" />
+      <created>1763610850627</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1763610850627</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Cache">
+      <option name="closed" value="true" />
+      <created>1763813978883</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1763813978883</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Cache">
+      <option name="closed" value="true" />
+      <created>1763814000272</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1763814000272</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Builder Pattern example of &#10;BuilderDemo">
+      <option name="closed" value="true" />
+      <created>1763969284700</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1763969284700</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Abstract Factory Patterns">
+      <option name="closed" value="true" />
+      <created>1763978951846</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1763978951847</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="SOLID-S" />
+    <MESSAGE value="Cache" />
+    <MESSAGE value="Builder Pattern example of &#10;BuilderDemo" />
+    <MESSAGE value="Abstract Factory Patterns" />
+    <option name="LAST_COMMIT_MESSAGE" value="Abstract Factory Patterns" />
+  </component>
+</project>

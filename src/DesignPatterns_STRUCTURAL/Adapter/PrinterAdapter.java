@@ -1,4 +1,5 @@
-package DesignPatterns_STRUCTURAL;
+package DesignPatterns_STRUCTURAL.Adapter;
+
 //adapter
 class PrinterAdapter implements Printer {
     private LegacyPrinter legacyPrinter;
