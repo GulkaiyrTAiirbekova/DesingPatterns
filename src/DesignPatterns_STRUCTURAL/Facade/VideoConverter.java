@@ -1,6 +1,10 @@
 package src.DesignPatterns_STRUCTURAL.Facade;
 import java.io.File;
 
+//We create a facade class to hide the framework's complexity
+//behind a simple interface . It's a trade-off between
+//functionality and simplicity
+
 public class VideoConverter {
     public File convert(String filename, String format) {
         System.out.println("VideoConverter:  converting ' " + filename + " to " + format);
