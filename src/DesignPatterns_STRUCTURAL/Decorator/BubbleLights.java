@@ -7,6 +7,9 @@ public class BubbleLights extends TreeDecorator{
     }
     @Override
     public String decorate(){
-        return super.decorate() + " with Bubble Lights";
+        return super.decorate() + decorateWithBubbleLights();
+    }
+    private String decorateWithBubbleLights(){
+        return " with Bubble Lights";
     }
 }
